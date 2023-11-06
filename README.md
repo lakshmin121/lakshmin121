@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshmin121
 - 👀 I’m interested in image processing.
 - 🌱 I’m currently learning machine learning and neural networks
-- 💞️ I’m looking to collaborate on application of image processing and data science applied to material science and structural health monitoring.
+- 💞️ I’m looking to collaborate on the application of image processing and data science to material science and structural health monitoring.
 - 📫 How to reach me ...
